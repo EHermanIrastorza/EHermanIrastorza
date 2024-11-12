@@ -7,7 +7,7 @@
  He comenzado en el mundo de la programación hace apenas 1 año, pero he trabajado anteriormente en diseño de paginas web con **figma** y **pack de adobe**, y también he realizado un desempeño laboral de 2 años en modelado 3D usando herramientas como blender y substance painter.
  Actualmente me encuentro desenvolviendome solo en la parte de programación ya que es lo que más me ha llamado la atención, y me siento muy motivado e incentivado a seguir aprendiendo tanto lenguajes como herramientas.
 
- ##¿Qué hago?
+ ## ¿Qué hago?
 
  Actualmente me encuentro en una busqueda laboral activa mientras realizo trabajos de freelance en programación en conjunto con un compañero que nos permite seguir aprendiendo y avanzando en la adquisición de conocimientos, **también tengo un gran anhelo por seguir aprendiendo que es lo que hago de manera autodidacta donde me encuentro leyendo documentación y aplicando nuevos lenguajes**.
 
