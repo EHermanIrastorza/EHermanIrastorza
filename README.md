@@ -35,7 +35,7 @@ Mi objetivo principal es el poder encontrar un lugar laboral donde aplicar mis c
 Entre otras herramientas que aprendido a mis antiguos trabajos, tales como photoshop, adobe, figma, entre otros.
 
 
-##Estaré esperando! Contactame!
+## Estaré esperando! Contactame!
 
 Podemos realizar una gran variedad de proyectos que lleven adelante o impulsen el mercado!
 
